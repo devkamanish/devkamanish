@@ -33,7 +33,7 @@
 <hr>
 <h2 align="center">💡 About Me</h2>
 
-I’m Manish Devka, currently working on building full-stack web applications with the MERN stack (MongoDB, Express.js, React, and Node.js). I’m continuously learning Next.js, GraphQL, Docker, and AWS Cloud Services to strengthen my expertise in modern web development and cloud-native deployment. I’m looking to collaborate on scalable React applications, API-driven backends, or DevOps-integrated MERN projects, and I seek guidance on advanced React performance optimization and cloud deployments. You can explore all my projects on my GitHub portfolio. I love experimenting with JavaScript frameworks, sharing insights, and discussing ideas around React, Node.js, APIs, Databases, and DevOps. Feel free to reach me at manishdevka61@gmail.com
+I’m Manish Devka, currently working on building full-stack web applications with the MERN stack (MongoDB, Express.js, React, and Node.js). I’m continuously learning Next.js, GraphQL, Docker, and AWS Cloud Services to strengthen my expertise in modern web development and cloud-native deployment. I’m looking to collaborate on scalable React applications, API-driven backends, or DevOps-integrated MERN projects, and I seek guidance on advanced React performance optimization and cloud deployments. You can explore all my projects on my GitHub portfolio. I love experimenting with JavaScript frameworks, sharing insights, and discussing ideas around React, Node.js, APIs, Databases, and DevOps. Feel free to reach me at devkamanish61@gmail.com
 
 
 
