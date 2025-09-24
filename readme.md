@@ -37,8 +37,53 @@ I’m Manish Devka, currently working on building full-stack web applications wi
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h2 align="center">🚀 Languages & Tools</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/AngularJS-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Babel-%23F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" />
+  <img src="https://img.shields.io/badge/D3.js-%23F9A03C.svg?style=for-the-badge&logo=d3.js&logoColor=white" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Chart.js-%23FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
 
 <!-- Fun little animated gifs for vibe -->
 <p align="center">
@@ -54,25 +99,25 @@ I’m Manish Devka, currently working on building full-stack web applications wi
 <div align="center" style="display:flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
 
   <!-- Top Languages -->
-  <a href="https://github.com/karantaragi07/karantaragi07" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karantaragi07&hide=java,html,tex&title_color=0DF781&text_color=0DF781&icon_color=0DF781&bg_color=1d1f21&border_color=0DF781&border_radius=15&langs_count=3" alt="Top Languages" height="180"/>
+  <a href="https://github.com/devkamanish/devkamanish" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkamanish&hide=java,html,tex&title_color=0DF781&text_color=0DF781&icon_color=0DF781&bg_color=1d1f21&border_color=0DF781&border_radius=15&langs_count=3" alt="Top Languages" height="180"/>
   </a>
 
   <!-- GitHub Stats -->
-  <a href="https://github.com/karantaragi07/karantaragi07" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=karantaragi07&show_icons=true&line_height=27&count_private=true&title_color=0DF781&text_color=0DF781&icon_color=0DF781&bg_color=1d1f21&border_color=0DF781&border_radius=15" alt="GitHub Stats" height="180"/>
+  <a href="https://github.com/devkamanish/devkamanish" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=devkamanish&show_icons=true&line_height=27&count_private=true&title_color=0DF781&text_color=0DF781&icon_color=0DF781&bg_color=1d1f21&border_color=0DF781&border_radius=15" alt="GitHub Stats" height="180"/>
   </a>
 
 <br><br>
 
-  <!-- Email Assistant -->
-  <a href="https://github.com/karantaragi07/Email-Assistant" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karantaragi07&repo=Email-Assistant&title_color=0DF781&text_color=0DF781&icon_color=0DF781&bg_color=1d1f21&border_color=0DF781&border_radius=15" alt="Email Assistant Repo" height="180"/>
+  <!-- static-ecommerce-webpage -->
+  <a href="https://github.com/devkamanish/static-ecommerce-webpage" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devkamanish&repo=static-ecommerce-webpage&title_color=0DF781&text_color=0DF781&icon_color=0DF781&bg_color=1d1f21&border_color=0DF781&border_radius=15" alt="static ecommerce webpage" height="180"/>
   </a>
 
-  <!-- SenseFlow -->
-  <a href="https://github.com/karantaragi07/SenseFlow" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karantaragi07&repo=SenseFlow&title_color=0DF781&text_color=0DF781&icon_color=0DF781&bg_color=1d1f21&border_color=0DF781&border_radius=15" alt="SenseFlow Repo" height="180"/>
+  <!-- Vincular_app -->
+  <a href="https://github.com/devkamanish/Vincular_app" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devkamanish&repo=Vincular_app&title_color=0DF781&text_color=0DF781&icon_color=0DF781&bg_color=1d1f21&border_color=0DF781&border_radius=15" alt="Vincular app" height="180"/>
   </a>
 
 </div>
@@ -90,13 +135,10 @@ I’m Manish Devka, currently working on building full-stack web applications wi
 <hr>
 <h3 align="center">🤝 Connect with me</h3>
 <div align="center">
-  <a href="https://www.instagram.com/karantaragi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
-  </a>
-  <a href="mailto:ksingh064002@gmail.com">
+  <a href="mailto:devkamanish61@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
-  <a href="https://linkedin.com/in/karantaragi26" target="_blank">
+  <a href="https://linkedin.com/in/manishdevka" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
 </div>
